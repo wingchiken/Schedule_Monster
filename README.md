@@ -154,7 +154,7 @@ SMTPPW='{이메일 인증을 위한 Password}'
 ### 6. 데모 영상
 
 <details><summary>메인 페이지</summary>
-<img src = '/uploads/811237270c57ad560b0d117848b0eb25/1.gif' width ="640px" />
+<img src = 'https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team12/schedule_monster/uploads/811237270c57ad560b0d117848b0eb25/1.gif' width ="640px" />
 </details>
 
 <details><summary>사용자 마이페이지</summary>
